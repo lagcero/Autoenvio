@@ -201,3 +201,5 @@ acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83
 acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,"SETANTA SPORTS 1080" 
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
