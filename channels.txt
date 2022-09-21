@@ -19,6 +19,8 @@ acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Final basket liga cat.
+acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Nan0ID M. LaLiga 1080 MultiAudio
 acestream://65c4396e2be5cc038d0693e0f97f13895ec2b095
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
@@ -179,8 +181,8 @@ acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,BarçaTv
 acestream://e401beff79c70a54542c38728e20141122e6c5c8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Manresa - Joventut  / Barça - Girona
-acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,REAL MADRID TV
+acestream://15d01e482f108a8e61db4612b8b222bf72843b2d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,"BeMad 1080"
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,"ESPN 720"
