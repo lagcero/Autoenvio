@@ -19,8 +19,6 @@ acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Final basket liga cat.
-acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Nan0ID M. LaLiga 1080 MultiAudio
 acestream://65c4396e2be5cc038d0693e0f97f13895ec2b095
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
@@ -83,6 +81,12 @@ acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,"DAZN 4 1080"
 acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
+acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 Bar HD [DE] (13.3 Mbps)
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 Bar HD [DE] (11.2 Mbps)
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT2
@@ -101,8 +105,10 @@ acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 acestream://d580d53613be09c7a5388d808509f6c97ec07df2
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_
+acestream://137ccef306febbd4509b5a374f08df1151bf388c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_M
-acestream://cd4965e740f8e01f47cef1b9dc0517b806cd38b5
+acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080
@@ -153,11 +159,11 @@ acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,"#0 de Movistar 1080"
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,"Sport Tv 1 1080"
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
-#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,"Sport Tv 2 1080"
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 2 1080
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
-#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,"Sport Tv 3 1080"
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,"beIN SPORTS ñ"
 acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
@@ -181,8 +187,12 @@ acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,BarçaTv
 acestream://e401beff79c70a54542c38728e20141122e6c5c8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,REAL MADRID TV
-acestream://15d01e482f108a8e61db4612b8b222bf72843b2d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Betis Tv
+acestream://0aa9e4f5bfd091f83a8bd1a0e9e8c416aed9cf58
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Esport 3 cat  
+acestream://0268f4875ddaed855a112aa5aceda2e48fb33583
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,2300 Cine. Hamilton 2
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,"BeMad 1080"
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,"ESPN 720"
@@ -191,3 +201,39 @@ acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV1 Portugal SD
+acestream://e130b6b8ab34a7c81191a3abcebe6529c5920af8
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Polsat Sport [PL] (6.4 Mbps)
+acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 1 [UK] (1.7 Mbps)
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 2 [UK] (6.8 Mbps)
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 3 Romania
+acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 2 Romania
+acestream://6c5175349940c1fb4ef30b014e631ce9fc5fdb6c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 1 Romania
+acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Ziggo Sport Racing [BE] (9.6 Mbps)
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Ziggo Sport Select [BE] (7.3 Mbps)
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal [BE] (4.3 Mbps)
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Polsat Sport Extra [PL] (7.9 Mbps)
+acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,DIEMA SPORT
+acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FOX Sports 1 HD [US] (3.7 Mbps)
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FOX Sports 2 HD [US] (3.6 Mbps)
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Polsat Sport Premium 1 [PL] (16.3 Mbps)
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Polsat Sport Premium 2 [PL]
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TV2 Sport
+acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TV2 Sport X
+acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
