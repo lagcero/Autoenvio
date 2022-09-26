@@ -11,14 +11,14 @@ acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 acestream://80513358f6f71fa95981a569e284eb44b44e8361
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 2 1080
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 720
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1 1080
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Nan0ID M. LaLiga 1080 MultiAudio
 acestream://65c4396e2be5cc038d0693e0f97f13895ec2b095
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
@@ -95,6 +95,8 @@ acestream://40da37534656efcc6179c1b7693335d5e8212e43
 acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LIGA SMARTBANK
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LIGA SMARTBANK_HD_M
+acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Smartbank 1080 MultiAudio
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,smartbank 2 1080 
@@ -103,10 +105,6 @@ acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 acestream://d580d53613be09c7a5388d808509f6c97ec07df2
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_
-acestream://137ccef306febbd4509b5a374f08df1151bf388c
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_M
-acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 720
@@ -129,8 +127,6 @@ acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,"M. Golf 1080"
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos_720
-acestream://b888712c494a93739d4f275806d7e4feb4c6d2f8
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
@@ -149,6 +145,8 @@ acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FC CARTAGENA - ALAVES_
+acestream://137ccef306febbd4509b5a374f08df1151bf388c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,"Telecinco 1080"
 acestream://cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
@@ -189,6 +187,8 @@ acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,"ESPN EXTRA URUGUAY"
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,26/09/22
+acestream://772b21b5b6610b38cb194df905ec9e34ebe7fb50
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,"BeMad 1080"
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,"ESPN 720"
