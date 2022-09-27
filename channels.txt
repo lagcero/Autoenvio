@@ -161,12 +161,6 @@ acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 de Movistar 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
-acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
-#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 2 1080
-acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
-#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3
-acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720
 acestream://65c141632af256d70da66c767ba74360042b4396
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,DIRECTV ECUADOR
@@ -175,14 +169,12 @@ acestream://f3f14b89eb62839f97153593432370b5bd61a5df
 acestream://772b21b5b6610b38cb194df905ec9e34ebe7fb50
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV1 Portugal SD
-acestream://e130b6b8ab34a7c81191a3abcebe6529c5920af8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 1
-acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 2
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
+acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 2 1080
+acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3
+acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 #EXTINF:-1 group-title="Extranjeros" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ
 acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Extranjeros" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN URUGUAY
@@ -205,6 +197,8 @@ acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV1 Portugal SD
+acestream://e130b6b8ab34a7c81191a3abcebe6529c5920af8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport [PL] (6.4 Mbps)
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Premier Sports 1 [UK] (1.7 Mbps)
@@ -239,3 +233,9 @@ acestream://3147c586346aee00c005d1caa55204d38678c95f
 acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,TV2 Sport X
 acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 1
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 2
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
