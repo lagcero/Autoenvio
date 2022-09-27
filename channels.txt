@@ -167,8 +167,6 @@ acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
-#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ
-acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720
 acestream://65c141632af256d70da66c767ba74360042b4396
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,DIRECTV ECUADOR
@@ -177,36 +175,16 @@ acestream://f3f14b89eb62839f97153593432370b5bd61a5df
 acestream://772b21b5b6610b38cb194df905ec9e34ebe7fb50
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV1 Portugal SD
 acestream://e130b6b8ab34a7c81191a3abcebe6529c5920af8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 1 [UK] (1.7 Mbps)
-acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier Sports 2 [UK] (6.8 Mbps)
-acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 3 Romania
-acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 2 Romania
-acestream://6c5175349940c1fb4ef30b014e631ce9fc5fdb6c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Digi Sport 1 Romania
-acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Ziggo Sport Racing [BE] (9.6 Mbps)
-acestream://77800bb07c1d69135024ee2379c97472eb12dd45
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Ziggo Sport Select [BE] (7.3 Mbps)
-acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal [BE] (4.3 Mbps)
-acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TV2 Sport
-acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TV2 Sport X
-acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 1
 acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 2
 acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
 acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="Extranjeros" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ
+acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Extranjeros" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN URUGUAY
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 group-title="Extranjeros" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN2 URUGUAY
@@ -225,8 +203,26 @@ acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1080 
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport [PL] (6.4 Mbps)
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Premier Sports 1 [UK] (1.7 Mbps)
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Premier Sports 2 [UK] (6.8 Mbps)
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Digi Sport 3 Romania
+acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Digi Sport 2 Romania
+acestream://6c5175349940c1fb4ef30b014e631ce9fc5fdb6c
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Digi Sport 1 Romania
+acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Ziggo Sport Racing [BE] (9.6 Mbps)
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Ziggo Sport Select [BE] (7.3 Mbps)
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal [BE] (4.3 Mbps)
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport Extra [PL] (7.9 Mbps)
 acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,DIEMA SPORT
@@ -239,3 +235,7 @@ acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport Premium 2 [PL]
 acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,TV2 Sport
+acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,TV2 Sport X
+acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
