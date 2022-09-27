@@ -233,3 +233,9 @@ acestream://3147c586346aee00c005d1caa55204d38678c95f
 acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TV2 Sport X
 acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 1
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
