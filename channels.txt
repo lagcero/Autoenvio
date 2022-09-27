@@ -81,9 +81,9 @@ acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080
 acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 Bar HD [DE] (13.3 Mbps)
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,Dazn 1 Bar [de]
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 Bar HD [DE] (11.2 Mbps)
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,Dazn 2 Bar [de]
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
@@ -239,3 +239,23 @@ acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
 acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 1
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 2
+acestream://e1e5e6afd93ef6a9beb9e38be2d2f7523f3a6295
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 2 [pl]
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 3 [pl]
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 4 [pl]
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 3 [be]
+acestream://7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 4 [be]
+acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 5 [be]
+acestream://d3634268718c6e52cde4a34d0e75cffef26c1ba9
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 6 [be]
+acestream://26e31f091414fb036917a255b4adaf12b2f3da5b
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 7 [be]
+acestream://160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
