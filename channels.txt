@@ -163,8 +163,10 @@ acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720
 acestream://65c141632af256d70da66c767ba74360042b4396
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,26/09/22
-acestream://772b21b5b6610b38cb194df905ec9e34ebe7fb50
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,R. Madrid Tv   
+acestream://3cce5e3c4cb99f317d46964b553deed2ffa1f20d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,2340h American Yakuza
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
