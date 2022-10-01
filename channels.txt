@@ -9,8 +9,6 @@ acestream://df98650743f24a245c44cdf2851e57078f4c487a
 acestream://c72263175266c90d376dcb8607c28e02939c1873
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Nan0ID DAZN LaLiga
-acestream://80513358f6f71fa95981a569e284eb44b44e8361
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M.LIGA HD_M
@@ -25,8 +23,6 @@ acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LaLiga_720  
 acestream://7617552c0c898c6b5b79adb4f107aaf0fbce04d7
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Nan0ID M. LaLiga 1080 MultiAudio
-acestream://65c4396e2be5cc038d0693e0f97f13895ec2b095
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
 acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2
