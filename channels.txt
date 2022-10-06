@@ -65,8 +65,6 @@ acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 acestream://297fab10d7364ca1991fa43fcff469573688ce7a
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 Multiaudio Nuevo
 acestream://165fdf78bc3a31d54b274f4930ea468c9df295a0
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Nan0ID M. Liga de Campeones 1080 MultiAudio
-acestream://546d3be86e56b2578b1e28c7ed98fb6520e5fa67
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
