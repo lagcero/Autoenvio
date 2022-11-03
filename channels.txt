@@ -159,6 +159,28 @@ acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 3
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 1 [de] Euroleague
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 2 [de] Euroleague
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 3 [de] Euroleague
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 4 [de] Euroleague
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 5 [de] Euroleague
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 6 [de] Euroleague
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 7 [de] Euroleague  
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 8 [de] Euroleague 
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 9 [de] Euroleague
+acestream://86495fe134ff065d5217497babe6be33f81d37d1
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 10 [de] Euroleague
+acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Magenta Sport 11 [de] Euroleague
+acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 1 [UK] (8.0 Mbps) 
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 2 [UK] (9.2 Mbps) 
