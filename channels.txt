@@ -5,6 +5,8 @@ acestream://df98650743f24a245c44cdf2851e57078f4c487a
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn La liga 2
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LIGA M_HD
+acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
@@ -79,8 +81,6 @@ acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 3 720
 acestream://1000c018cf4afb7357f10e438e966d23340e4295
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#vamos M_HD
-acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos 1080
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos 720
@@ -129,8 +129,6 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 acestream://fce57732100f78dc96a27c5571fe1fa0080a3841
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4K_by Electro
 acestream://39d1c3deb93d7d87ce6682dba4a5b1fc38af42bb
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4k Danny
-acestream://94774eb9d2d6b0577a7a1732ddc586ad778b2657
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 2 1080
