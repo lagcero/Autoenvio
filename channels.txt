@@ -245,37 +245,37 @@ acestream://d3634268718c6e52cde4a34d0e75cffef26c1ba9
 acestream://26e31f091414fb036917a255b4adaf12b2f3da5b
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 7 [be]
 acestream://160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,NBA TV Euroleague
-acestream://e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 1 [de] Euroleague
-acestream://501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 2 [de] Euroleague
-acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 3 [de] Euroleague
-acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 4 [de] Euroleague
-acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 5 [de] Euroleague
-acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 6 [de] Euroleague
-acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 7 [de] Euroleague  
-acestream://ac839cda9709255c21a98af455731f037e77a9e4
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 8 [de] Euroleague 
-acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 9 [de] Euroleague
-acestream://86495fe134ff065d5217497babe6be33f81d37d1
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 10 [de] Euroleague
-acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Magenta Sport 11 [de] Euroleague
-acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Setanta Sports Ukraine HD Euroleague
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Sports Ukraine HD Euroleague
 acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Setanta Sports 2 Euroleague
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Sports 2 Euroleague
 acestream://58f2d9438e8b7816294dd7fe28aaf1af61e5bf1f
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Setanta Sports 2 Euroleague
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Sports 2 Euroleague
 acestream://780d7705e15c6695ced40cd5d5a692752523dd21
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Setanta Sports HD Euroleague
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Sports HD Euroleague
 acestream://97333bde8ad208b1eff824af2cb632c3493e8501
-#EXTINF:-1 group-title="Euroleague" tvg-id="" tvg-logo="" ,Setanta Eurasia HD Euroleague
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Eurasia HD Euroleague
 acestream://c9354414ae22fb6d21658d87aba4738bf21a6e72
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,NBA TV Baloncesto
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 1 [de] Baloncesto
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 2 [de] Baloncesto
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 3 [de] Baloncesto
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 4 [de] Baloncesto
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 5 [de] Baloncesto
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 6 [de] Baloncesto
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 7 [de] Baloncesto  
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 8 [de] Baloncesto 
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 9 [de] Baloncesto
+acestream://86495fe134ff065d5217497babe6be33f81d37d1
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 10 [de] Baloncesto
+acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 11 [de] Baloncesto
+acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
