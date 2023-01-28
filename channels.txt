@@ -1,6 +1,238 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 720
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 Bar HD [DE] (13.3 Mbps)
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 Bar HD [DE] (11.2 Mbps)
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 720
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 1080
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 MultiAudio
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 720 MultiAudio
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 1080
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 720
+acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 2 1080
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 2 720
+acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 3 1080
+acestream://1104426e14b649eb23fee16698768544285de478
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 720
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 2 1080
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 2 720
+acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 1080
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 720
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M.L. Campeones 4 SD
+acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M.L. Campeones 5 SD
+acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 6 SD
+acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 7 SD
+acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 8 SD
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 9 SD
+acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 10 SD
+acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 11 SD
+acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 12 SD
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos 1080
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M. Deportes 2 1080
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M. Deportes 3 1080
+acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 4
+acestream://08db089084ddbaceba7c239817407bf99708b9ad
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 5
+acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 6
+acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M. Golf 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Fórmula 1)
+acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Fórmula 1)
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
+acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 1080
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,tdp 1080
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,LA 1 1080
+acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080
+acestream://cbf281d5e481697aa4184fe1de5e069928c95057
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720
+acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 de Movistar 1080
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4K_by Danny
+acestream://fce57732100f78dc96a27c5571fe1fa0080a3841
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4K_by Electro
+acestream://39d1c3deb93d7d87ce6682dba4a5b1fc38af42bb
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4k pruebas
 acestream://440e15375a76b0245ee07873dae1681f8c6d83cb
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
+acestream://c95422bc904378be0b035eba721d5e6a004f7d79
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 2 1080
+acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3 1080
+acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
+#EXTINF:-1 group-title="Extranjeros" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ
+acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+#EXTINF:-1 group-title="Extranjeros" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN COLOMBIA
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 group-title="Extranjeros" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA COLOMBIA
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Extranjeros" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 2 COLOMBIA
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 group-title="Extranjeros" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 3 COLOMBIA
+acestream://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1080 
+acestream://72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 3
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 1 [UK] (8.0 Mbps) 
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 2 [UK] (9.2 Mbps) 
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 3 [UK] (2.3 Mbps) 
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 4 [UK](9.2 Mbps) 
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Premier League
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Maint Event
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV1 Portugal SD
+acestream://e130b6b8ab34a7c81191a3abcebe6529c5920af8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport [PL] (6.4 Mbps)
+acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Premier Sports 1 [UK] (1.7 Mbps)
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Premier Sports 2 [UK] (6.8 Mbps)
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Digi Sport 3 Romania
+acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Digi Sport 2 Romania
+acestream://6c5175349940c1fb4ef30b014e631ce9fc5fdb6c
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Digi Sport 1 Romania
+acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
+acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 2 1080
+acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3
+acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Ziggo Sport Racing [BE] (9.6 Mbps)
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Ziggo Sport Select [BE] (7.3 Mbps)
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal [BE] (4.3 Mbps)
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport Extra [PL] (7.9 Mbps)
+acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,DIEMA SPORT
+acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,FOX Sports 1 HD [US] (3.7 Mbps)
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,FOX Sports 2 HD [US] (3.6 Mbps)
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport Premium 1 [PL] (16.3 Mbps)
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport Premium 2 [PL]
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,TV2 Sport
+acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,TV2 Sport X
+acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 1
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 2
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 1
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 2
+acestream://e1e5e6afd93ef6a9beb9e38be2d2f7523f3a6295
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 2 [pl]
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 3 [pl]
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 4 [pl]
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 3 [be]
+acestream://7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 4 [be]
+acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 5 [be]
+acestream://d3634268718c6e52cde4a34d0e75cffef26c1ba9
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 6 [be]
+acestream://26e31f091414fb036917a255b4adaf12b2f3da5b
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Amazon Prime Video 7 [be]
+acestream://160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Sports Ukraine HD Euroleague
 acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Sports 2 Euroleague
@@ -11,3 +243,27 @@ acestream://780d7705e15c6695ced40cd5d5a692752523dd21
 acestream://97333bde8ad208b1eff824af2cb632c3493e8501
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Setanta Eurasia HD Euroleague
 acestream://c9354414ae22fb6d21658d87aba4738bf21a6e72
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,NBA TV Baloncesto
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 1 [de] Baloncesto
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 2 [de] Baloncesto
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 3 [de] Baloncesto
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 4 [de] Baloncesto
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 5 [de] Baloncesto
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 6 [de] Baloncesto
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 7 [de] Baloncesto  
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 8 [de] Baloncesto 
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 9 [de] Baloncesto
+acestream://86495fe134ff065d5217497babe6be33f81d37d1
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 10 [de] Baloncesto
+acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+#EXTINF:-1 group-title="Baloncesto" tvg-id="" tvg-logo="" ,Magenta Sport 11 [de] Baloncesto
+acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
