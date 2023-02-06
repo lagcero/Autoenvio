@@ -132,9 +132,7 @@ acestream://fce57732100f78dc96a27c5571fe1fa0080a3841
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4K_by Electro
 acestream://39d1c3deb93d7d87ce6682dba4a5b1fc38af42bb
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,4k audio español
-acestream://09f10eea5796d8abb05e3042cb577511c2e304dc
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,1080 audio español
-acestream://6a712c507ac2ada6896615abaf039426bfa38e15
+acestream://acd1719e5ef4726c65b4999a914a3451723273a8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 1 1080
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 2 1080
