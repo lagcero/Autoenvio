@@ -9,8 +9,6 @@ acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080
-acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 Bar HD [DE] (13.3 Mbps)
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 Bar HD [DE] (11.2 Mbps)
@@ -23,12 +21,12 @@ acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 720
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 2 1080
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 MultiAudio
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 720 MultiAudio
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio
@@ -37,6 +35,8 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 MultiAudio
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 1080
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 720
@@ -104,9 +104,9 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Fórmula 1)
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Fórmula 1)
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 1080
@@ -147,6 +147,16 @@ acestream://b97f5975dbd067655432512d4693b417bc85a714
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 3
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 1
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 2
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Premier League
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Maint Event
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 1 [UK] (8.0 Mbps) 
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 2 [UK] (9.2 Mbps) 
@@ -155,10 +165,6 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,BT Sport 4 [UK](9.2 Mbps) 
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Premier League
-acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Sky Sports Maint Event
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV1 Portugal SD
 acestream://e130b6b8ab34a7c81191a3abcebe6529c5920af8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Polsat Sport [PL] (6.4 Mbps)
@@ -201,12 +207,6 @@ acestream://3147c586346aee00c005d1caa55204d38678c95f
 acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,TV2 Sport X
 acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 1
-acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 2
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Pimpletv.ru 3
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 1
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="" ,Eleven Sports 1 [pl] 2
