@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ VAMOSHD" tvg-logo="" ,#Vamos 1080
 acestream://fxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxsfxxfxfxfxfxfxfxfxfxfxfx
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ VAMOSHD" tvg-logo="" ,#Vamos 720
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+acestream://fxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxsfxxfxfxf
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 720
