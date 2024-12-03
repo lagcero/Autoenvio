@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ VAMOSHD" tvg-logo="" ,#Vamos 1080  
-stover-wp
+
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ VAMOSHD" tvg-logo="" ,#Vamos 720
-acestream://abcedadsñfljadsg vzsñvlijfv,mladvfok
+acestr
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 720
