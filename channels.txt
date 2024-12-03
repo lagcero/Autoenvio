@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ VAMOSHD" tvg-logo="" ,#Vamos 1080 8001:
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ VAMOSHD" tvg-logo="" ,#Vamos 1080 8001/ stover
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ VAMOSHD" tvg-logo="" ,#Vamos 720
 acestream://fxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxsfxxfxfxf
